@@ -1,5 +1,5 @@
-# Практика
-Swagger UI
+# Практика.Подключение Swagger UI
+
 # Сложение:
 ![screenshot](https://github.com/G4r1k/practice/blob/master/plusExample.png)
 
